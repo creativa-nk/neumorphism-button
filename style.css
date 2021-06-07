@@ -136,7 +136,8 @@ input[type='checkbox'].heart::after{
     font-size: 25px;
 }
 input[type='checkbox'].heart:checked::after{
-    color: #ff59b2;
+    color: #ff47a9cc;
+    text-shadow: 0 0 2px #ff13917e;
 }
 
 /* ----------------SEARCH------------------- */
@@ -148,7 +149,8 @@ input[type='checkbox'].search::after{
     font-size: 25px;
 }
 input[type='checkbox'].search:checked::after{
-    color: #12cdee;
+    color: #12cdeee5;
+    text-shadow: 0 0 2px #1dd4f5e5;
 }
 
 /* -------------------heart-------------------- */
